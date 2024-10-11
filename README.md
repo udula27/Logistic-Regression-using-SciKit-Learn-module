@@ -1,0 +1,1 @@
+This repository contains the Jupyter notebook for the assignment I did under EN3150 Pattern Recognition module. It explores the basics of classification techniques such as logistic regression and various encoding techniques.
